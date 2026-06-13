@@ -1,4 +1,4 @@
-# Taller de Construcción de Microservicios con Spring Boot y Containerización
+# Construcción de Microservicios con Spring Boot y Containerización
 
 ## 1. Instalar y configurar PostgreSQL
 
